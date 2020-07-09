@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 
 <!--
 **Juuro/Juuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### Hi you beautiful people! 👋
+
+I'm a fullstack JavaScript developer with a passion for frontend. Recently I played around with Jamstack and now I have multiple side project going at once. I hope I can "finish" one before I get another *great* idea. 🙂 I also am in the process of learning Swift and getting my second app in the App Store.
+
+I love mountainbiking 🚵‍♀️ more than anything in the world. If I could I would do nothing but riding my bike and code interesting apps and websites from now and then. 🤩
